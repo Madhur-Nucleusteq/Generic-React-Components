@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.main-div {
+  padding-top: 20px;
+  width: 100vw;
+  text-align: center;
+}
+
+.button-div {
+  border: 3px solid black;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  margin: 30px;
+}
